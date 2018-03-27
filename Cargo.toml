@@ -1,0 +1,6 @@
+[package]
+name = "bcbench"
+version = "0.1.0"
+authors = ["Elric Milon <elric.milon@nl.abnamro.com>"]
+
+[dependencies]
