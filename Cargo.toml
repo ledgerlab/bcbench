@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Elric Milon <elric.milon@nl.abnamro.com>"]
 
 [dependencies]
+rand = "0.3.14"
+exonum_bitcoinrpc = "0.5.1"       # Bitcoin RPC API client.
