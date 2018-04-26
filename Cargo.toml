@@ -6,3 +6,5 @@ authors = ["Elric Milon <elric.milon@nl.abnamro.com>"]
 [dependencies]
 rand = "0.3.14"
 exonum_bitcoinrpc = "0.5.1"       # Bitcoin RPC API client.
+bitcoin = "0.13.0"                # General purpose library for using and interoperating with Bitcoin and
+base58 = "0.1.0"               # Tiny and fast base58 encoding
